@@ -1,0 +1,61 @@
+ label {
+            font-size: 30px;
+            color:darkred;
+        }
+
+        #userLabel {
+            background-color:darkorange;
+        }
+
+        #passLabel {
+            background-color:darksalmon;
+        }
+
+        .forgot:link {
+            font-size: 30px;
+            color:darkseagreen;
+            font-style: none;
+        }
+
+
+        .forgot:hover {
+            font-size: 50px;
+            color:darkgoldenrod;
+            background-color:firebrick;
+        }
+
+
+        .forgot:visited {
+            font-size: 20px;
+            color:chartreuse;
+            background-color:blueviolet;
+        }
+
+        .forgot:active {
+            font-size: 30px;
+            color:darkcyan;
+            background-color:palegreen;
+        }
+
+        .ali:link {
+            font-size: 30px;
+            color:cadetblue;
+            font-style: none;
+        }
+
+
+        .ali:hover {
+            font-size: 50px;
+            color:lightpink;
+            background-color:darkseagreen;
+        }
+
+
+        button { 
+            padding: 30px 25px 20px 15px;
+        }
+
+        #error {
+            color:greenyellow;
+            font-size: 30px;
+        }
